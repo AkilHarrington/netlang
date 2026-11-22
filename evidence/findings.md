@@ -8,11 +8,10 @@
 
 ## 2960-24TT switch
 - IOS 15.0(2)SE4, image C2960-LANBASEK9-M, model WS-C2960-24TT-L
-- Ports: FastEthernet0/1-24, GigabitEthernet0/1-2 (per show version)
+- Ports: FastEthernet0/1-24, GigabitEthernet0/1-2, Vlan1 (administratively down)
 - Switch ports are enabled by default (status "down" = no cable, not shut)
 - Trunk options: allowed, native only -> NO `switchport trunk encapsulation` line
 - Evidence: 2960-24TT_show-version.txt, 2960-24TT_switchport-trunk.txt
-- TODO: complete 2960-24TT_show-ip-int-brief.txt (Fa0/22 onward)
 
 ## 3560-24PS switch
 - IOS 12.2(37)SE1, image C3560-ADVIPSERVICESK9-M, model WS-C3560-24PS-E
