@@ -1,0 +1,5 @@
+# TRANSCRIBED from screenshot, 22 Nov 2026, Packet Tracer 9.0.1.0858
+Switch(config)#interface g0/1
+Switch(config-if)#switchport trunk ?
+  allowed  Set allowed VLAN characteristics when interface is in trunking mode
+  native   Set trunking native characteristics when interface is in trunking mode

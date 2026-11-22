@@ -1,0 +1,17 @@
+# TRANSCRIBED from screenshot, 22 Nov 2026, Packet Tracer 9.0.1.0858
+Router#show version
+Cisco IOS Software, C2900 Software (C2900-UNIVERSALK9-M), Version 15.1(4)M4, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2012 by Cisco Systems, Inc.
+Compiled Thurs 5-Jan-12 15:41 by pt_team
+
+ROM: System Bootstrap, Version 15.1(4)M4, RELEASE SOFTWARE (fc1)
+cisco2911 uptime is 7 minutes, 47 seconds
+System returned to ROM by power-on
+System image file is "flash0:c2900-universalk9-mz.SPA.151-1.M4.bin"
+Last reload type: Normal Reload
+
+[export-control notice omitted]
+
+Router#
+# NOTE: output ends here. No processor, memory or interface summary is shown.

@@ -1,0 +1,5 @@
+# TRANSCRIBED from screenshot, 22 Nov 2026, Packet Tracer 9.0.1.0858
+Router#terminal length 0
+                ^
+% Invalid input detected at '^' marker.
+# NOTE: valid on real IOS; not supported in this Packet Tracer version.
